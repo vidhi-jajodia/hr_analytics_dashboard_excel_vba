@@ -174,12 +174,23 @@ hr_analytics_dashboard_excel_vba/
 
 ---
 
-## ⚙️ How to Use
-1. Download project files
-2. Enable macros
-3. Open dashboard workbook
-4. Refresh pivot data
-5. Use slicers/forms
+# ▶️ Installation & Execution
+
+```bash
+## Steps:
+
+### 1. Clone the repository.
+
+### 2. Open dashboard workbook - hr_system.xlsm
+
+### 3. Click on Enable to Content.
+
+### 4. Refresh Power Query connections
+
+### 5. Change values in Setting tab (if required) and then refresh pivots/visualization using "Run Analysis" button.
+
+### 6. Use slicers/forms and export to PDF using "Export" button
+```
 
 ---
 
