@@ -160,7 +160,7 @@ System behavior is controlled via **Settings sheet**:
 # 📂 Project Structure
 
 ```bash
-retail-sales-analysis/
+hr_analytics_dashboard_excel_vba/
 │
 ├── data/                        # Raw dataset
 ├── documentation/               # Project Brief walk through document
