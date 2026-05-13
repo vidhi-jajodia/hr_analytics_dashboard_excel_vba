@@ -157,6 +157,32 @@ System behavior is controlled via **Settings sheet**:
 
 ---
 
+# 📂 Project Structure
+
+```bash
+retail-sales-analysis/
+│
+├── data/                        # Raw dataset
+├── documentation/               # Project Brief walk through document
+├── export/                      # PDF Export
+├── screenshots/                 # Dashboard visuals
+├── forms/                       # VBA form (.frm)
+├── vba_modules                  # VBA modules (.bas)
+├── hr_system.xlsm               # Excel file macro enabled
+└── README.md
+```
+
+---
+
+## ⚙️ How to Use
+1. Download project files
+2. Enable macros
+3. Open dashboard workbook
+4. Refresh pivot data
+5. Use slicers/forms
+
+---
+
 ## 🚀 Future Enhancements
 
 - Drill-down dashboards
@@ -179,11 +205,11 @@ This solution enables HR teams to:
 
 # 👨‍💻 Author
 
-## Sanjay Kumawat
+## Vidhi Jajodia
 
 ### Connect:
 
-* GitHub: [kumawat-sanjay](https://github.com/kumawat-sanjay)
-* LinkedIn: [kumawatsanjay](https://www.linkedin.com/in/kumawatsanjay/)
+* GitHub: [vidhi-jajodia](https://github.com/vidhi-jajodia)
+* LinkedIn: [vidhi-jajodia](https://www.linkedin.com/in/vidhi-jajodia/)
 
 ---
